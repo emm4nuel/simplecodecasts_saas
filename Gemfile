@@ -13,6 +13,8 @@ gem 'stripe', '1.16.1'
 # Use figaro to hide secret keys
 gem 'figaro', '1.0.0'
 
+gem 'paperclip', '4.2.1'
+
 #use bootstrap library for styles
 gem 'bootstrap-sass', '3.3.1'
 #Font Awesome
